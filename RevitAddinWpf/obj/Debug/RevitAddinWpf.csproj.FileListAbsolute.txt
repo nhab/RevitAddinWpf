@@ -1,0 +1,13 @@
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWpf.csproj.AssemblyReference.cache
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWpf.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWpf.csproj.CopyComplete
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\bin\Debug\RevitAddinWPF.addin
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\bin\Debug\RevitAddinWPF.dll
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\bin\Debug\RevitAddinWPF.pdb
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWPF_MarkupCompile.cache
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWPF_MarkupCompile.lref
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWPF.g.resources
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWPF.dll
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\RevitAddinWPF.pdb
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\Views\MyWindow.g.cs
+C:\Users\n\Desktop\Project_standard_transfer_app\RevitAddinWPF\RevitAddinWpf\obj\Debug\Views\MyWindow.baml
