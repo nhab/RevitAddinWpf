@@ -6,8 +6,7 @@ using System.Windows;
 using System.Windows.Controls;
 using RevitAddinWPF.ExternalEvents;
 
-namespace WallsAndDoorsTester
-{
+
     [Transaction(TransactionMode.Manual)]
     public class MyCommand : IExternalCommand
     {
@@ -31,4 +30,4 @@ namespace WallsAndDoorsTester
         }
 
     }
-}
+
